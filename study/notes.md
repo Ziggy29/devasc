@@ -522,6 +522,9 @@ Some aspects of the language to note:
 - Every leaf must have an associated `type`.
 
 ### NETCONF
+NETCONF (Network Configuration) is the primary transport protocol that is used with YANG data models today. It defines how a manager (client) and agent (server) communicate in a standard fashion.
+
+<img src="netconf_protocol_stack1.jpg" alt="drawing" width="700"/>
 
 
 ### NETCONF and RESTCONF
